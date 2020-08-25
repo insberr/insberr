@@ -13,7 +13,5 @@ I don't really know what to put here yet so hello 👋 take a look around at my 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spidergamin&show_icons=true" alt="spidergamin" /></p>
 
 <p align="center"> 
-<a href="https://twitter.com/spidergaming0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="spidergaming0" height="30" width="30" /></a>
+<a href="https://twitter.com/SpiderGaming0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="spidergaming0" height="30" width="30" /></a>
 </p>
-
-I mainly work with nodejs and web projects. I tend to be a messy programmer. Take a look around at my code
