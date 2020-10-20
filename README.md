@@ -14,12 +14,15 @@ I don't really know what to put here yet so hello 👋 take a look around at my 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </p>
-
+<details>
+<summary>Stats</summary>
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=spidergamin" alt="spidergamin" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spidergamin&layout=compact&hide=html&theme=dark" alt="spidergamin"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spidergamin&hide=html&theme=dark" alt="spidergamin"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spidergamin&show_icons=true&theme=dark" alt="spidergamin" /></p>
+</details>
 
 <p align="center"> 
 <a href="https://twitter.com/SpiderGaming0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="spidergaming0" height="30" width="30" /></a>
