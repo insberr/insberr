@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm SpiderGamin</h1>
 <h4 align="center">I mainly work with nodejs and web projects. I tend to be a messy programmer. 
 I don't really know what to put here yet so hello 👋 take a look around at my code. Help is appreciated.</h4>
-<p>I'm a programmer, youtuber, gamer, and game dev. I spend most of my time [doing school]. I should probably go around and fix most of my code...</p>
+<p>I'm a programmer, youtuber, gamer, and game dev. I spend most of my free time programming or watching YouTube.</p>
 
+## Links
+- [Discord Server (Code)]() (No link yet) This is the discord server for all programming things I do
+- [Twitter](https://twitter.com/SpiderGaming0)
+- [npm]() (Link coming soon)
 
-- 🔭 I’m currently working on [djs-argument-parser](https://github.com/spidergamin/djs-argument-parser)
-- 🤝 I’m looking for help with [djs-argument-parser](https://github.com/spidergamin/djs-argument-parser)
+### My current projects:
+- [@djs-tools](https://github.com/djs-tools)
+  - [argument-parser](https://github.com/djs-tools/argument-parser)
+  - [command-handler](https://github.com/djs-tools/command-handler)
+I am currently looking for help with these. If you are interested, let me know through my discord server (link above)
+
+### To work on later
+- [text-parser](https://github.com/spidergamin/text-parser)
 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
