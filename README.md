@@ -5,8 +5,8 @@ I don't really know what to put here yet so hello 👋 take a look around at my 
 
 ## Links
 - [Discord Server (Code)]() (No link yet) This is the discord server for all programming things I do
-- [Twitter](https://twitter.com/SpiderGaming0)
-- [npm]() (Link coming soon)
+- [Twitter](https://twitter.com/SpiderGaming0) Using Twitter is like being a bird in a cage
+- [npm](https://www.npmjs.com/~spidergaming) There isnt much there at the moment.
 
 ### My current projects:
 - [@djs-tools](https://github.com/djs-tools)
