@@ -3,6 +3,8 @@
 I don't really know what to put here yet so hello 👋 take a look around at my code. Help is appreciated.</h4>
 <p>I'm a programmer, youtuber, gamer, and game dev. I spend most of my free time programming or watching YouTube.</p>
 
+### I am planning on changeing my username
+
 ## Links
 - [Normal Chat Discord Server](https://discord.gg/gRMbZyU) This is my main discord server. It's a place to chat I guess. 
 - [Programming Discord Server](https://discord.gg/6kFYJAP) (Finally added the link) This is the discord server for all programming things I do
