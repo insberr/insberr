@@ -12,11 +12,11 @@ I don't really know what to put here yet so hello 👋 take a look around at my 
 - [@djs-tools](https://github.com/djs-tools)
   - [argument-parser](https://github.com/djs-tools/argument-parser)
   - [command-handler](https://github.com/djs-tools/command-handler)
-- [random](/random)
+- [random](../../../random)
 I am currently looking for help with these. If you are interested, let me know through my discord server (link above)
 
 ### To work on later
-- [text-parser](https://github.com/spidergaming0/text-parser)
+- [text-parser](~/text-parser)
 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
