@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SpiderGamin</h1>
+<h1 align="center">Hi 👋, I'm SpiderGaming</h1>
 <h4 align="center">I mainly work with nodejs and web projects. I tend to be a messy programmer. 
 I don't really know what to put here yet so hello 👋 take a look around at my code. Help is appreciated.</h4>
 <p>I'm a programmer, youtuber, gamer, and game dev. I spend most of my free time programming or watching YouTube.</p>
@@ -15,7 +15,7 @@ I don't really know what to put here yet so hello 👋 take a look around at my 
 I am currently looking for help with these. If you are interested, let me know through my discord server (link above)
 
 ### To work on later
-- [text-parser](https://github.com/spidergamin/text-parser)
+- [text-parser](https://github.com/spidergaming0/text-parser)
 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -28,10 +28,10 @@ I am currently looking for help with these. If you are interested, let me know t
 <summary>Stats</summary>
 <br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=spidergamin" alt="spidergamin" />
+  <img src="https://komarev.com/ghpvc/?username=spidergaming0" alt="spidergaming0" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spidergamin&hide=html&theme=dark" alt="spidergamin"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spidergamin&show_icons=true&theme=dark" alt="spidergamin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spidergaming0&hide=html&theme=dark" alt="spidergaming0"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spidergaming0&show_icons=true&theme=dark" alt="spidergaming0" /></p>
 </details>
 
 <p align="center"> 
