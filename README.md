@@ -4,7 +4,8 @@ I don't really know what to put here yet so hello 👋 take a look around at my 
 <p>I'm a programmer, youtuber, gamer, and game dev. I spend most of my free time programming or watching YouTube.</p>
 
 ## Links
-- [Discord Server (Code)]() (No link yet) This is the discord server for all programming things I do
+- [Normal Chat Discord Server](https://discord.gg/gRMbZyU) This is my main discord server. It's a place to chat I guess. 
+- [Programming Discord Server](https://discord.gg/6kFYJAP) (Finally added the link) This is the discord server for all programming things I do
 - [Twitter](https://twitter.com/SpiderGaming0) Using Twitter is like being a bird in a cage
 - [npm](https://www.npmjs.com/~spidergaming) There isnt much there at the moment.
 
@@ -16,7 +17,7 @@ I don't really know what to put here yet so hello 👋 take a look around at my 
 I am currently looking for help with these. If you are interested, let me know through my discord server (link above)
 
 ### To work on later
-- [text-parser](~/text-parser)
+- [text-parser](../../../text-parser)
 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
