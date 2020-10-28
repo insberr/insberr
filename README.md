@@ -12,6 +12,7 @@ I don't really know what to put here yet so hello 👋 take a look around at my 
 - [@djs-tools](https://github.com/djs-tools)
   - [argument-parser](https://github.com/djs-tools/argument-parser)
   - [command-handler](https://github.com/djs-tools/command-handler)
+- [random](/random)
 I am currently looking for help with these. If you are interested, let me know through my discord server (link above)
 
 ### To work on later
