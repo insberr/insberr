@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Insberr (AKA SpiderGaming)</h1>
 I mainly work with nodejs and web projects. I tend to be a messy programmer.  
-I don't really know what to put here yet so hello 👋 take a look around at my code.  
 I'm a programmer, youtuber, gamer, and game dev. I spend most of my free time programming or watching YouTube.
 
 ## Lanuages
@@ -18,8 +17,9 @@ Languages I Want To Lean
 - None at the moment
 
 ## Links
+- [Website](https://insberr.github.io/) My website. I plan on redoing it later.
 - [Discord Server (Chats)](https://discord.gg/gRMbZyU) This is my main discord server. It's a place to chat I guess. 
-- [Discord Server (Programming)](https://discord.gg/6kFYJAP) (Finally added the link) This is the discord server for all programming things I do
+- [Discord Server (Programming)](https://discord.gg/6kFYJAP) This is the discord server for all programming things I do
 - [Twitter](https://twitter.com/Insberr) Using Twitter is like being a bird in a cage
 - [npm](https://www.npmjs.com/~insberr) There isnt much there at the moment.
 
