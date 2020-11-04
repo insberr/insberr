@@ -3,6 +3,20 @@ I mainly work with nodejs and web projects. I tend to be a messy programmer.
 I don't really know what to put here yet so hello 👋 take a look around at my code.  
 I'm a programmer, youtuber, gamer, and game dev. I spend most of my free time programming or watching YouTube.
 
+## Lanuages
+I Know Well
+- JavaScript (Web and Nodejs)
+- HTML
+- CSS
+
+I'm Learning
+- Java
+- C#
+- Python
+
+Languages I Want To Lean
+- None at the moment
+
 ## Links
 - [Discord Server (Chats)](https://discord.gg/gRMbZyU) This is my main discord server. It's a place to chat I guess. 
 - [Discord Server (Programming)](https://discord.gg/6kFYJAP) (Finally added the link) This is the discord server for all programming things I do
@@ -13,11 +27,12 @@ I'm a programmer, youtuber, gamer, and game dev. I spend most of my free time pr
 - [@djs-tools](https://github.com/djs-tools)
   - [argument-parser](https://github.com/djs-tools/argument-parser)
   - [command-handler](https://github.com/djs-tools/command-handler)
-- [random](../../../random)
+- [random](https://github.com/Insberr/random)
+- [A Minecraft Mod](https://github.com/Insberr/minecraft-fabric-mod)
 I am currently looking for help with these. If you are interested, let me know through my discord server (link above)
 
 ### To work on later
-- [text-parser](../../../text-parser)
+- [text-parser](https://github.com/Insberr/text-parser)
 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
