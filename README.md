@@ -35,7 +35,7 @@ I am currently looking for help with these. If you are interested, let me know t
   <img src="https://komarev.com/ghpvc/?username=Insberr" alt="Insberr" />
  
   [![Insberrs's github stats](https://github-readme-stats.vercel.app/api?username=Insberr&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Insberr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Insberr&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
   [![Insberr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Insberr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
