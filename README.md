@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Insberr (AKA SpiderGaming)</h1>
-<h4 align="center">I mainly work with nodejs and web projects. I tend to be a messy programmer. 
-I don't really know what to put here yet so hello 👋 take a look around at my code. Help is appreciated.</h4>
-<p>I'm a programmer, youtuber, gamer, and game dev. I spend most of my free time programming or watching YouTube.</p>
-
-### I am planning on changeing my username
+I mainly work with nodejs and web projects. I tend to be a messy programmer.  
+I don't really know what to put here yet so hello 👋 take a look around at my code.  
+I'm a programmer, youtuber, gamer, and game dev. I spend most of my free time programming or watching YouTube.
 
 ## Links
 - [Discord Server (Chats)](https://discord.gg/gRMbZyU) This is my main discord server. It's a place to chat I guess. 
