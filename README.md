@@ -33,11 +33,12 @@ I am currently looking for help with these. If you are interested, let me know t
 <br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Insberr" alt="Insberr" />
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Insberr&hide=html&theme=dark" alt="Insberr"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Insberr&show_icons=true&theme=dark" alt="Insberr" /></p>
+ 
+  [![Insberrs's github stats](https://github-readme-stats.vercel.app/api?username=Insberr&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Insberr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Insberr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Insberr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <p align="center"> 
-<a href="https://twitter.com/insberr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Insberr Twitter" height="30" width="30" /></a>
+<a href="https://twitter.com/insberr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" style="color: red;" alt="Insberr Twitter" height="30" width="30" /></a>
 </p>
