@@ -19,8 +19,8 @@ Languages I Want To Lean
 ## Links
 - [Website](https://insberr.github.io/) My website. I plan on redoing it later.
 - [Discord Server (Chats)](https://discord.gg/gRMbZyU) This is my main discord server. It's a place to chat I guess. 
-- [Discord Server (Programming)](https://discord.gg/6kFYJAP) This is the discord server for all programming things I do
-- [Twitter](https://twitter.com/Insberr) Using Twitter is like being a bird in a cage
+- [Discord Server (Programming)](https://discord.gg/PSNKV6EB9A) This is the discord server for all programming things I do
+- [Twitter](https://twitter.com/insberr) Using Twitter is like being a bird in a cage
 - [npm](https://www.npmjs.com/~insberr) There isnt much there at the moment.
 
 ### My current projects:
