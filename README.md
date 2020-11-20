@@ -32,7 +32,7 @@ Languages I Want To Lean
   - [command-handler](https://github.com/djs-tools/command-handler)
 - [random](https://github.com/Insberr/random)
 - [A Minecraft Mod](https://github.com/Insberr/minecraft-fabric-mod) 
-- [Automatic Video Editor (AI?)](https://github.com/Insberr/videiEditirAI) (current)
+- [Automatic Video Editor (AI?)](https://github.com/Insberr/videoEditorAI) (current)
 I am currently looking for help with these. If you are interested, let me know through my discord server (link above)
 
 ### To work on later
