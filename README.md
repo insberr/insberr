@@ -14,7 +14,10 @@ I'm Learning
 - Python
 
 Languages I Want To Lean
-- None at the moment
+- Kotlin
+- V
+- Rust
+- Go
 
 ## Links
 - [Website](https://insberr.github.io/) My website. I plan on redoing it later.
@@ -24,11 +27,12 @@ Languages I Want To Lean
 - [npm](https://www.npmjs.com/~insberr) There isnt much there at the moment.
 
 ### My current projects:
-- [@djs-tools](https://github.com/djs-tools)
+- [@djs-tools](https://github.com/djs-tools) (taking a break)
   - [argument-parser](https://github.com/djs-tools/argument-parser)
   - [command-handler](https://github.com/djs-tools/command-handler)
 - [random](https://github.com/Insberr/random)
-- [A Minecraft Mod](https://github.com/Insberr/minecraft-fabric-mod)
+- [A Minecraft Mod](https://github.com/Insberr/minecraft-fabric-mod) 
+- [Automatic Video Editor (AI?)](https://github.com/Insberr/videiEditirAI) (current)
 I am currently looking for help with these. If you are interested, let me know through my discord server (link above)
 
 ### To work on later
