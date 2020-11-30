@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Insberr (AKA SpiderGaming)</h1>
 I mainly work with nodejs and web projects. I tend to be a messy programmer.  
-I'm a programmer, youtuber, gamer, and game dev. I spend most of my free time programming or watching YouTube.
+I'm a programmer, youtuber, gamer, and game dev. I spend most of my free time programming or watching YouTube.  
+
+<img src="https://komarev.com/ghpvc/?username=Insberr" alt="Insberr" />
 
 ## Lanuages
 I Know Well
@@ -53,12 +55,11 @@ I am currently looking for help with these. If you are interested, let me know t
 
 
 <details>
-<summary>Stats</summary>
-<br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Insberr" alt="Insberr" />
- 
-  [![Insberrs's github stats](https://github-readme-stats.vercel.app/api?username=Insberr&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Insberr&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-  [![Insberr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Insberr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  <summary>Stats</summary>
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Insberr&count_private=true&show_icons=true&theme=dark" alt="Github Stats" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Insberr&theme=dark" alt="WakaTime Stats" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Insberr&theme=dark&langs_count=10" alt="Top lanuages" align="center" />
+  
 </details>
