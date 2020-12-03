@@ -2,7 +2,7 @@
 I mainly work with nodejs and web projects. I tend to be a messy programmer.  
 I'm a programmer, youtuber, gamer, and game dev. I spend most of my free time programming or watching YouTube.  
 
-<img src="https://komarev.com/ghpvc/?username=Insberr" alt="Insberr" />
+<img src="https://komarev.com/ghpvc/?username=insberr" alt="Insberr" />
 
 ## Lanuages
 I Know Well
@@ -30,18 +30,18 @@ Sort Of Know / Want To Learn
 ## Projects
 I am currently looking for help with these. If you are interested, let me know through my discord server (link above)
 ### My current projects:
-- [Automatic Video Editor (AI?)](https://github.com/Insberr/videoEditorAI) (current)
+- [Automatic Video Editor (AI?)](https://github.com/insberr/videoEditorAI) (current)
 
 ### Left To Finish Later
 - [@djs-tools](https://github.com/djs-tools)
   - [argument-parser](https://github.com/djs-tools/argument-parser)
   - [command-handler](https://github.com/djs-tools/command-handler)
-- [random](https://github.com/Insberr/random)
-- [A Minecraft Mod](https://github.com/Insberr/minecraft-fabric-mod) 
-- [text-parser](https://github.com/Insberr/text-parser)
+- [random](https://github.com/insberr/random)
+- [A Minecraft Mod](https://github.com/insberr/minecraft-fabric-mod) 
+- [text-parser](https://github.com/insberr/text-parser)
 
 ### To work on later
-- [Idle Universe](https://github.com/Insberr/idle-universe)
+- [Idle Universe](https://github.com/insberr/idle-universe)
 
 
 
@@ -58,8 +58,8 @@ I am currently looking for help with these. If you are interested, let me know t
   <summary>Stats</summary>
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Insberr&count_private=true&show_icons=true&theme=dark" alt="Github Stats" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Insberr&theme=dark" alt="WakaTime Stats" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Insberr&theme=dark&langs_count=10" alt="Top lanuages" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=insberr&count_private=true&show_icons=true&theme=dark" alt="Github Stats" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=insberr&theme=dark" alt="WakaTime Stats" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insberr&theme=dark&langs_count=10" alt="Top lanuages" align="center" />
   
 </details>
