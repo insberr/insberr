@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Insberr (AKA SpiderGaming)</h1>
+<h1 align="center">Hi 👋, I'm Insberr</h1>
 I mainly work with nodejs and web projects. I tend to be a messy programmer.  
 I'm a programmer, youtuber, gamer, and game dev. I spend most of my free time programming or watching YouTube.  
 
