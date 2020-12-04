@@ -31,6 +31,7 @@ Sort Of Know / Want To Learn
 I am currently looking for help with these. If you are interested, let me know through my discord server (link above)
 ### My current projects:
 - [Automatic Video Editor (AI?)](https://github.com/insberr/videoEditorAI) (current)
+- [hiven-v](https://github.com/insberr/hiven-v) (slow progress, looking for help)
 
 ### Left To Finish Later
 - [@djs-tools](https://github.com/djs-tools)
