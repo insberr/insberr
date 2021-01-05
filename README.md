@@ -10,27 +10,29 @@ I Know Well
 - HTML & CSS (NOt evEn LanGuAges)
 
 I'm Learning
-- V
+- [V](https://vlang.io)
 - Python
 
 Sort Of Know / Want To Learn
+- Go
 - Java
-- C#
+- C, C++, C#
 - Kotlin
 - Rust
-- Go
 
 ## Links
 - [Website](https://insberr.github.io/) My website. I plan on redoing it later
-- [Discord Server (Chats)](https://discord.gg/gRMbZyU) This is my main discord server. It's a place to chat I guess
-- [Discord Server (Programming)](https://discord.gg/PSNKV6EB9A) This is my developement discord server
+- [Bio](https://insberr.github.io/profile) My bio. Its a working progress right now.
+- [Cbat Discord Server](https://discord.gg/gRMbZyU) This is my main discord server. It's a place to chat I guess
+- [Dev Discord Server](https://discord.gg/PSNKV6EB9A) This is my developement discord server
 - [Twitter](https://twitter.com/insberr) Using Twitter is like being a bird in a cage
 - [npm](https://www.npmjs.com/~insberr) There isnt much there at the moment
 
 ## Projects
 I am currently looking for help with these. If you are interested, let me know through my discord server (link above)
 ### My current projects:
-- [Automatic Video Editor (AI?)](https://github.com/insberr/videoEditorAI) (current)
+- [website](https://insberr.github.io) Redesigning my website and adding a bio page.
+- [Automatic Video Editor (AI?)](https://github.com/insberr/videoEditorAI) (Not working on at the moment)
 - [hiven-v](https://github.com/insberr/hiven-v) (slow progress, looking for help)
 
 ### Left To Finish Later
@@ -44,6 +46,9 @@ I am currently looking for help with these. If you are interested, let me know t
 ### To work on later
 - [Idle Universe](https://github.com/insberr/idle-universe)
 
+### Ideas
+- Make a programming language
+- Make a video editor in [V](https://vlang.io)
 
 
 <p align="left">
