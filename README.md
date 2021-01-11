@@ -7,6 +7,7 @@ I'm a programmer, youtuber, gamer, and game dev. I spend most of my free time pr
 ![Metrics](https://github.com/insberr/insberr/blob/master/metrics.svg)
 ![Mastered](https://github.com/insberr/insberr/blob/master/topics.svg)
 ![Most used languages](https://github.com/insberr/insberr/blob/master/languages.svg)
+![Habits](https://github.com/insberr/insberr/blob/master/habits.svg)
 
 ## Lanuages
 I Know Well
