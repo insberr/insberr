@@ -28,25 +28,25 @@ Sort Of Know / Want To Learn
 ## Links
 - [Website](https://insberr.github.io/) My website. I plan on redoing it later
 - [About Me](https://insberr.github.io/profile) My bio. Its a working progress right now.
-- [Cbat Discord Server](https://discord.gg/gRMbZyU) This is my main discord server. It's a place to chat I guess
+- [Chat Discord Server](https://discord.gg/gRMbZyU) This is my main discord server. It's a place to chat I guess
 - [Dev Discord Server](https://discord.gg/PSNKV6EB9A) This is my developement discord server
 - [Twitter](https://twitter.com/insberr) Using Twitter is like being a bird in a cage
 - [npm](https://www.npmjs.com/~insberr) There isnt much there at the moment
 
 ## Projects
-I am currently looking for help with these. If you are interested, let me know through my discord server (link above)
+
 ### My current projects:
 - [website](https://insberr.github.io) Redesigning my website and adding an about me page.
-- [Automatic Video Editor (AI?)](https://github.com/insberr/videoEditorAI) (Not working on at the moment)
-- [vhiven](https://github.com/insberr/vhiven) (slow progress, looking for help)
+- [vhiven](https://github.com/insberr/vhiven)
 
-### Left To Finish Later
+### Left To "Finish Later"
 - [@djs-tools](https://github.com/djs-tools)
   - [argument-parser](https://github.com/djs-tools/argument-parser)
   - [command-handler](https://github.com/djs-tools/command-handler)
 - [random](https://github.com/insberr/random)
 - [A Minecraft Mod](https://github.com/insberr/minecraft-fabric-mod) 
 - [text-parser](https://github.com/insberr/text-parser)
+- [Automatic Video Editor (AI?)](https://github.com/insberr/videoEditorAI) (Not working on at the moment)
 
 ### To work on later
 - [Idle Universe](https://github.com/insberr/idle-universe)
