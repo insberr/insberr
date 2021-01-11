@@ -10,25 +10,25 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           # ... other options
           plugin_languages: yes
           plugin_languages_ignored: "" # List of comma separated languages to ignore
           plugin_languages_skipped: "" # List of comma separated repositories to skip
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           # ... other options
           plugin_topics: yes
           plugin_topics_mode: mastered
           plugin_topics_limit: 0
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           # ... other options
           plugin_lines: yes
