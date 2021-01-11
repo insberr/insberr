@@ -9,10 +9,17 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # See action.yml for all options
-      - uses: lowlighter/metrics@latest
+      - name: User
+        uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
@@ -20,9 +27,23 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: "" # List of comma separated languages to ignore
           plugin_languages_skipped: "" # List of comma separated repositories to skip
+      - name: Topics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: topics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           # Mastered topics
           plugin_topics: yes
           plugin_topics_mode: mastered
           plugin_topics_limit: 0
+      - name: Lines
+        uses: lowlighter/metrics@latest
+        with:
+          filename: lines.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           # Lines
           plugin_lines: yes
