@@ -5,7 +5,6 @@ I'm a programmer, youtuber, gamer, and game dev. I spend most of my free time pr
 <img src="https://komarev.com/ghpvc/?username=insberr" alt="Insberr" />
 
 ![Metrics](https://github.com/insberr/insberr/blob/master/metrics.svg)
-![Lines](https://github.com/insberr/insberr/blob/master/lines.svg)
 ![Mastered](https://github.com/insberr/insberr/blob/master/topics.svg)
 ![Most used languages](https://github.com/insberr/insberr/blob/master/languages.svg)
 
@@ -27,7 +26,7 @@ Sort Of Know / Want To Learn
 
 ## Links
 - [Website](https://insberr.github.io/) My website. I plan on redoing it later
-- [Bio](https://insberr.github.io/profile) My bio. Its a working progress right now.
+- [About Me](https://insberr.github.io/profile) My bio. Its a working progress right now.
 - [Cbat Discord Server](https://discord.gg/gRMbZyU) This is my main discord server. It's a place to chat I guess
 - [Dev Discord Server](https://discord.gg/PSNKV6EB9A) This is my developement discord server
 - [Twitter](https://twitter.com/insberr) Using Twitter is like being a bird in a cage
@@ -36,9 +35,9 @@ Sort Of Know / Want To Learn
 ## Projects
 I am currently looking for help with these. If you are interested, let me know through my discord server (link above)
 ### My current projects:
-- [website](https://insberr.github.io) Redesigning my website and adding a bio page.
+- [website](https://insberr.github.io) Redesigning my website and adding an about me page.
 - [Automatic Video Editor (AI?)](https://github.com/insberr/videoEditorAI) (Not working on at the moment)
-- [hiven-v](https://github.com/insberr/hiven-v) (slow progress, looking for help)
+- [vhiven](https://github.com/insberr/vhiven) (slow progress, looking for help)
 
 ### Left To Finish Later
 - [@djs-tools](https://github.com/djs-tools)
