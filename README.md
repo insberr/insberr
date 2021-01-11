@@ -4,10 +4,11 @@ I'm a programmer, youtuber, gamer, and game dev. I spend most of my free time pr
 
 <img src="https://komarev.com/ghpvc/?username=insberr" alt="Insberr" />
 
-![Metrics](https://github.com/insberr/insberr/blob/master/github-metrics.svg)
-![Lines](https://github.com/insberr/insberr/blob/master/metrics.plugin.lines.svg)
-![Mastered](https://github.com/insberr/insberr/blob/master/metrics.plugin.topics.mastered.svg)
-![Most used languages](https://github.com/insberr/insberr/blob/master/metrics.plugin.languages.svg)
+![Metrics](https://github.com/insberr/insberr/blob/master/metrics.svg)
+![Lines](https://github.com/insberr/insberr/blob/master/lines.svg)
+![Mastered](https://github.com/insberr/insberr/blob/master/topics.svg)
+![Most used languages](https://github.com/insberr/insberr/blob/master/languages.svg)
+
 ## Lanuages
 I Know Well
 - JavaScript (Web and Nodejs)
