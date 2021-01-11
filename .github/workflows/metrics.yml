@@ -16,6 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_lines: yes
       - name: Languages
         uses: lowlighter/metrics@latest
         with:
@@ -40,13 +41,3 @@ jobs:
           plugin_topics: yes
           plugin_topics_mode: mastered
           plugin_topics_limit: 0
-      - name: Lines
-        uses: lowlighter/metrics@latest
-        with:
-          filename: lines.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          # Lines
-          plugin_lines: yes
