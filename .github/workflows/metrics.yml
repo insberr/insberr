@@ -41,3 +41,21 @@ jobs:
           plugin_topics: yes
           plugin_topics_mode: mastered
           plugin_topics_limit: 0
+      - name: Habits
+        uses: lowlighter/metrics@latest
+        with:
+          filename: habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          
+          
+          
+      
