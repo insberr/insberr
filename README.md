@@ -16,7 +16,7 @@ I Know Well
 
 I'm Learning
 - [V](https://vlang.io)
-- Python
+- Zig
 
 Sort Of Know / Want To Learn
 - Go
@@ -27,15 +27,16 @@ Sort Of Know / Want To Learn
 
 ## Links
 - [Website](https://insberr.github.io/) My website. I plan on redoing it later
-- [About Me](https://insberr.github.io/profile) My bio. Its a working progress right now.
-- [Chat Discord Server](https://discord.gg/gRMbZyU) This is my main discord server. It's a place to chat I guess
-- [Dev Discord Server](https://discord.gg/PSNKV6EB9A) This is my developement discord server
+- [Discord Server](https://discord.gg/gRMbZyU) This is my discord server. It's a place to chat I guess
 - [Twitter](https://twitter.com/insberr) Using Twitter is like being a bird in a cage
 - [npm](https://www.npmjs.com/~insberr) There isnt much there at the moment
 
 ## Projects
 
 ### My current projects:
+- Secret Project
+
+### ....
 - [website](https://insberr.github.io) Redesigning my website and adding an about me page.
 - [vhiven](https://github.com/insberr/vhiven)
 
@@ -50,10 +51,6 @@ Sort Of Know / Want To Learn
 
 ### To work on later
 - [Idle Universe](https://github.com/insberr/idle-universe)
-
-### Ideas
-- Make a programming language
-- Make a video editor in [V](https://vlang.io)
 
 
 <p align="left">
