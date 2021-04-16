@@ -1025,10 +1025,10 @@
                             Use spaces for indents
                         </li>
                         <li>
-                            Mostly push code around 14:00
+                            Mostly push code around 19:00
                         </li>
                         <li>
-                            Mostly active on thursday
+                            Mostly active on friday
                         </li>
                     </ul>
                 </div>
@@ -1109,10 +1109,8 @@
                         13
                     </div>
                     <div class="entry">
-                        <span class="value">
-                            2
-                        </span>
-                        <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                        <span class="value"></span>
+                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                         14
                     </div>
                     <div class="entry">
@@ -1191,10 +1189,8 @@
                             Wed
                         </div>
                         <div class="entry">
-                            <span class="value">
-                                2
-                            </span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             Thu
                         </div>
                         <div class="entry">
@@ -1218,20 +1214,20 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">
-                                HTML
+                                JavaScript
                             </span>
-                            <div class="bar" style="width: 41.792%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 65.28800000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">
-                                52%
+                                82%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
-                                JavaScript
+                                HTML
                             </span>
-                            <div class="bar" style="width: 38.208%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 14.712%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
-                                48%
+                                18%
                             </span>
                         </div>
                     </div>
