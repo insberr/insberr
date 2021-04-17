@@ -97,8 +97,32 @@
     margin: 0 6px;
   }
 
-  .avatar.organization {
+  .organization.avatar {
     border-radius: 15%;
+  }
+
+  .organization.name {
+    white-space: nowrap;
+  }
+
+  .organization.contributions {
+    margin: 0 8px;
+    flex-wrap: wrap;
+  }
+
+  .contribution.organization {
+    display: flex;
+    border: 1px solid #959da5;
+    border-radius: 6px;
+    padding: 2px 6px;
+    padding-left: 0;
+    margin: 2px;
+    font-size: 12px;
+    background-color: #959da520;
+  }
+
+  .contribution.organization .avatar {
+    margin: 0 4px;
   }
 
 /* Commit calendar */
@@ -937,6 +961,12 @@
     stroke: rgba(127, 127, 127, 0.4) !important;
   }
 
+/* Autosize */
+  .autosize {
+    width: auto;
+    height: auto;
+  }
+
 /* Fade animation */
   .af {
     opacity: 0;
@@ -1025,7 +1055,7 @@
                             Use spaces for indents
                         </li>
                         <li>
-                            Mostly push code around 19:00
+                            Mostly push code around 18:00
                         </li>
                         <li>
                             Mostly active on friday
@@ -1130,16 +1160,14 @@
                     </div>
                     <div class="entry">
                         <span class="value">
-                            1
-                        </span>
-                        <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                        18
-                    </div>
-                    <div class="entry">
-                        <span class="value">
                             2
                         </span>
                         <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                        18
+                    </div>
+                    <div class="entry">
+                        <span class="value"></span>
+                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                         19
                     </div>
                     <div class="entry">
@@ -1197,7 +1225,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">
-                                3
+                                2
                             </span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Fri
@@ -1214,24 +1242,6 @@
                         Language activity
                     </h3>
                     <div class="chart-bars horizontal">
-                        <div class="entry">
-                            <span class="name">
-                                JavaScript
-                            </span>
-                            <div class="bar" style="width: 65.28800000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">
-                                82%
-                            </span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">
-                                HTML
-                            </span>
-                            <div class="bar" style="width: 14.712%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">
-                                18%
-                            </span>
-                        </div>
                     </div>
                 </section>
             </div>
