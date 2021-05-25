@@ -4,10 +4,7 @@ I'm a programmer, youtuber, gamer, and game dev. I spend most of my free time pr
 
 <img src="https://komarev.com/ghpvc/?username=insberr" alt="Insberr" />
 
-![Metrics](https://github.com/insberr/insberr/blob/master/metrics.svg)
-![Mastered](https://github.com/insberr/insberr/blob/master/topics.svg)
-![Most used languages](https://github.com/insberr/insberr/blob/master/languages.svg)
-![Habits](https://github.com/insberr/insberr/blob/master/habits.svg)
+![Metrics](https://metrics.lecoq.io/insberr?template=classic&isocalendar=1&languages=1&introduction=1&habits=1&licenses=1&topics=1&reactions=1&gists=1&followup=1&lines=1&traffic=1&stargazers=1&projects=1&achievements=1&notable=1&support=1&skyline=1&pagespeed=1&tweets=1&stackoverflow=1&posts=1&wakatime=1&isocalendar.duration=half-year&languages.ignored=veritlog&languages.limit=10&languages.colors=github&languages.details=bytes-size%2C%20percentage&languages.threshold=0%25&introduction.title=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&licenses.ratio=true&licenses.legal=true&topics.mode=mastered&topics.sort=stars&topics.limit=15&reactions.limit=200&reactions.days=0&reactions.display=relative&reactions.ignored=github-actions%5Bbot%5D%2C%20dependabot%5Bbot%5D&followup.sections=repositories&projects.limit=2&projects.descriptions=true&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=true&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=true&pagespeed.url=.user.website&pagespeed.detailed=true&pagespeed.screenshot=false&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&stackoverflow.user=13606260&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&posts.descriptions=false&posts.covers=false&posts.limit=4&posts.user=.user.login&wakatime.days=7&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.limit=5&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=current&config.timezone=America%2FLos_Angeles&config.padding=10%25%2C%2017%25)
 
 ## Lanuages
 I Know Well
