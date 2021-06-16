@@ -1,21 +1,18 @@
 # Hi 👋, I'm Insberr
-I mainly work with nodejs and web projects. I tend to be a messy programmer.  
-I'm a programmer, youtuber, gamer, and game dev. I spend most of my free time programming or watching YouTube.  
-
-<img src="https://komarev.com/ghpvc/?username=insberr" alt="Insberr" />
+I mainly work with nodejs and web projects. I tend to be a messy programmer and I struggle to finish any project I start.  
+I'm a programmer, youtuber, and gamer. I like programming, watching YouTube, or playing MineCraft.  
 
 ![Metrics](https://github.com/insberr/insberr/blob/master/github-metrics.svg)
 
 ## Lanuages
-I Know Well
+### I Know Well
 - JavaScript (Web and Nodejs)
 - HTML & CSS (NOt evEn LanGuAges)
+- Python
+- V
 
-I'm Learning
-- [V](https://vlang.io)
+### Sort Of Know / Want To Learn
 - Zig
-
-Sort Of Know / Want To Learn
 - Go
 - Java
 - C, C++, C#
@@ -31,40 +28,20 @@ Sort Of Know / Want To Learn
 ## Projects
 
 ### My current projects:
-- Secret Project
+- Nothing at the moment
 
-### ....
-- [website](https://insberr.github.io) Redesigning my website and adding an about me page.
+### To work on later
+- [website](https://insberr.github.io)
 - [vhiven](https://github.com/insberr/vhiven)
-
-### Left To "Finish Later"
 - [@djs-tools](https://github.com/djs-tools)
-  - [argument-parser](https://github.com/djs-tools/argument-parser)
-  - [command-handler](https://github.com/djs-tools/command-handler)
 - [random](https://github.com/insberr/random)
 - [A Minecraft Mod](https://github.com/insberr/minecraft-fabric-mod) 
 - [text-parser](https://github.com/insberr/text-parser)
-- [Automatic Video Editor (AI?)](https://github.com/insberr/videoEditorAI) (Not working on at the moment)
-
-### To work on later
+- [Automatic Video Editor (AI?)](https://github.com/insberr/videoEditorAI)
 - [Idle Universe](https://github.com/insberr/idle-universe)
 
-
-<p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
-</p>
-
-
-<details>
-  <summary>Stats</summary>
-  <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=insberr&count_private=true&show_icons=true&theme=dark" alt="Github Stats" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=insberr&theme=dark" alt="WakaTime Stats" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insberr&theme=dark&langs_count=10" alt="Top lanuages" align="center" />
-  
-</details>
+## Stats
+<img src="https://komarev.com/ghpvc/?username=insberr" alt="Insberr" />
+<img src="https://github-readme-stats.vercel.app/api?username=insberr&count_private=true&show_icons=true&theme=dark" alt="Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=insberr&theme=dark" alt="WakaTime Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insberr&theme=dark&langs_count=10" alt="Top lanuages" />
