@@ -32,13 +32,8 @@ I'm a programmer, youtuber, and gamer. I like programming, watching YouTube, or 
 
 ### To work on later
 - [website](https://insberr.github.io)
-- [vhiven](https://github.com/insberr/vhiven)
-- [@djs-tools](https://github.com/djs-tools)
 - [random](https://github.com/insberr/random)
-- [A Minecraft Mod](https://github.com/insberr/minecraft-fabric-mod) 
-- [text-parser](https://github.com/insberr/text-parser)
 - [Automatic Video Editor (AI?)](https://github.com/insberr/videoEditorAI)
-- [Idle Universe](https://github.com/insberr/idle-universe)
 
 ## Stats
 <img src="https://komarev.com/ghpvc/?username=insberr" alt="Insberr" />
