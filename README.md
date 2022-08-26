@@ -1,15 +1,20 @@
 # Hi 👋, I'm Insberr
-I mainly work with nodejs and web projects. I tend to be a messy programmer and I struggle to finish any project I start.  
+I mainly work with nodejs and web projects.  
 I'm a programmer, youtuber, and gamer. I like programming, watching YouTube, or playing MineCraft.  
 
 ![Metrics](https://github.com/insberr/insberr/blob/master/github-metrics.svg)
 
-## Lanuages
+## Things
 ### I Know Well
-- JavaScript (Web and Nodejs)
+- JavaScript
+  - discord.js
+  - vue2js (script import)
 - HTML & CSS (NOt evEn LanGuAges)
 - Python
 - V
+
+### Have a decent amount of experience with
+- Reactjs with parcel
 
 ### Sort Of Know / Want To Learn
 - Zig
@@ -20,15 +25,15 @@ I'm a programmer, youtuber, and gamer. I like programming, watching YouTube, or 
 - Rust
 
 ## Links
-- [Website](https://insberr.github.io/) My website. I plan on redoing it later
-- [Discord Server](https://discord.gg/gRMbZyU) This is my discord server. It's a place to chat I guess
+- [Website](https://insberr.com) My website. I plan on redoing it later
+- [Discord Server](https://discord.gg/gRMbZyU) This is my discord server. It's a place to chat
 - [Twitter](https://twitter.com/insberr) Using Twitter is like being a bird in a cage
 - [npm](https://www.npmjs.com/~insberr) There isnt much there at the moment
 
 ## Projects
 
 ### My current projects:
-- Nothing at the moment
+- [schedule-personalizer](https://github.com/insberr/schedule-personalizer)
 
 ### To work on later
 - [website](https://insberr.github.io)
