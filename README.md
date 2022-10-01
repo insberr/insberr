@@ -2,8 +2,6 @@
 I mainly work with nodejs and web projects.  
 I'm a programmer, youtuber, and gamer. I like programming, watching YouTube, or playing MineCraft.  
 
-![Metrics](https://github.com/insberr/insberr/blob/master/github-metrics.svg)
-
 ## Things
 ### I Know Well
 - JavaScript
