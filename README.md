@@ -11,10 +11,10 @@ I'm a programmer, youtuber, and gamer. I like programming, watching YouTube, or 
   - vue2js (script import)
 - HTML & CSS (NOt evEn LanGuAges)
 - Python
-- V
 
 ### Have a decent amount of experience with
 - Reactjs with parcel
+- V Language
 
 ### Sort Of Know / Want To Learn
 - Zig
@@ -25,15 +25,15 @@ I'm a programmer, youtuber, and gamer. I like programming, watching YouTube, or 
 - Rust
 
 ## Links
-- [Website](https://insberr.com) My website. I plan on redoing it later
-- [Discord Server](https://discord.gg/gRMbZyU) This is my discord server. It's a place to chat
-- [Twitter](https://twitter.com/insberr) Using Twitter is like being a bird in a cage
+- [My Website](https://insberr.com)
+- [Discord Server](https://discord.gg/gRMbZyU)
 - [npm](https://www.npmjs.com/~insberr) There isnt much there at the moment
 
 ## Projects
 
 ### My current projects:
-- [schedule-personalizer](https://github.com/insberr/schedule-personalizer)
+- [schedule-personalizer](https://github.com/insberr/schedule-personalizer) - Schedule app for schools
+- [astary](https://github.com/insberr/astary) - Pathfinding for maps
 
 ### To work on later
 - [website](https://insberr.github.io)
