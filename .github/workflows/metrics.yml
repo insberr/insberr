@@ -46,23 +46,10 @@ jobs:
           plugin_languages_limit: 20
           plugin_languages_threshold: 0%
           
-          plugin_licenses: yes
-          plugin_licenses_legal: yes
-          plugin_licenses_ratio: yes
-          
           plugin_lines: yes
           
           plugin_notable: yes
           plugin_notable_repositories: yes
-          
-          plugin_projects: yes
-          plugin_projects_descriptions: yes
-          plugin_projects_limit: 2
-          
-          # plugin_reactions: yes
-          # plugin_reactions_display: relative
-          # plugin_reactions_ignored: github-actions[bot], dependabot[bot]
-          # plugin_reactions_limit: 200
           
           plugin_stargazers: yes
           
