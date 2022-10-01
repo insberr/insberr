@@ -26,8 +26,6 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: repositories
           
-          # plugin_gists: yes
-          
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_days: 14
@@ -47,16 +45,6 @@ jobs:
           plugin_languages_threshold: 0%
           
           plugin_lines: yes
-          
-          plugin_notable: yes
-          plugin_notable_repositories: yes
-          
-          plugin_stargazers: yes
-          
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: mastered
-          plugin_topics_sort: stars
           
           plugin_traffic: yes
           
