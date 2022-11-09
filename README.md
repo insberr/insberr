@@ -21,6 +21,7 @@ I'm a programmer, youtuber, and gamer. I like programming, watching YouTube, or 
 - C, C++, C#
 - Kotlin
 - Rust
+- Haxe
 
 ## Links
 - [My Website](https://insberr.com)
@@ -30,8 +31,9 @@ I'm a programmer, youtuber, and gamer. I like programming, watching YouTube, or 
 ## Projects
 
 ### My current projects:
-- [schedule-personalizer](https://github.com/insberr/schedule-personalizer) - Schedule app for schools
+- [schedule-personalizer](https://github.com/insberr/schedule-personalizer) - Schedule webapp for schools
 - [astary](https://github.com/insberr/astary) - Pathfinding for maps
+- [schedule-script](https://github.com/insberr/schedule-script)
 
 ### To work on later
 - [website](https://insberr.github.io)
