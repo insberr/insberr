@@ -44,4 +44,4 @@ I'm a programmer, youtuber, and gamer. I like programming, watching YouTube, or 
 <img src="https://komarev.com/ghpvc/?username=insberr" alt="Insberr" />
 <img src="https://github-readme-stats.vercel.app/api?username=insberr&count_private=true&show_icons=true&theme=dark" alt="Github Stats" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=insberr&theme=dark" alt="WakaTime Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insberr&theme=dark&langs_count=10&exclude_repo=Personal%20Website" alt="Top lanuages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insberr&theme=dark&langs_count=10&exclude_repo=insberr.github.io" alt="Top lanuages" />
