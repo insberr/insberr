@@ -1,18 +1,20 @@
 # Hi 👋, I'm Insberr
-I mainly work with nodejs and web projects.  
-I'm a programmer, youtuber, and gamer. I like programming, watching YouTube, or playing MineCraft.  
+I mainly work with Nodejs and web projects.  
+I'm a programmer, YouTuber, and gamer. I like programming, watching YouTube, or playing Minecraft.  
 
 ## Things
 ### I Know Well
 - JavaScript
   - discord.js
   - vue2js (script import)
+  - React & Preact
+  - Parcel
 - HTML & CSS (NOt evEn LanGuAges)
 - Python
 
 ### Have a decent amount of experience with
-- Reactjs with parcel
 - V Language
+- C
 
 ### Sort Of Know / Want To Learn
 - Zig
@@ -26,19 +28,15 @@ I'm a programmer, youtuber, and gamer. I like programming, watching YouTube, or 
 ## Links
 - [My Website](https://insberr.com)
 - [Discord Server](https://discord.gg/gRMbZyU)
-- [npm](https://www.npmjs.com/~insberr) There isnt much there at the moment
+- [npm](https://www.npmjs.com/~insberr)
 
 ## Projects
 
 ### My current projects:
-- [schedule-personalizer](https://github.com/insberr/schedule-personalizer) - Schedule webapp for schools
-- [astary](https://github.com/insberr/astary) - Pathfinding for maps
-- [schedule-script](https://github.com/insberr/schedule-script)
+- I am burnt out lol
 
 ### To work on later
-- [website](https://insberr.github.io)
-- [random](https://github.com/insberr/random)
-- [Automatic Video Editor (AI?)](https://github.com/insberr/videoEditorAI)
+- [My Website](https://insberr.github.io) - Someday
 
 ## Stats
 <img src="https://komarev.com/ghpvc/?username=insberr" alt="Insberr" />
