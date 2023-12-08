@@ -4,7 +4,7 @@ I'm a programmer, YouTuber, and gamer. I like programming, watching YouTube, or 
 
 ## Things
 ### I Know Well
-- JavaScript
+- JavaScript/TypeScript
   - discord.js
   - vue2js (script import)
   - React & Preact
