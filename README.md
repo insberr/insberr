@@ -10,12 +10,14 @@ I'm a programmer, YouTuber, and gamer. I like programming, watching YouTube, or 
   - React & Preact
   - Parcel
 - HTML & CSS (NOt evEn LanGuAges)
-- Python
+- Python (It's been a long time)
+- C/C++
 
 ### Have a decent amount of experience with
 - V Language
-- C
-- C++
+- Rust
+- DirectX11
+- OpenGL
 
 ### Sort Of Know / Want To Learn
 - Zig
@@ -23,18 +25,17 @@ I'm a programmer, YouTuber, and gamer. I like programming, watching YouTube, or 
 - Java
 - C#
 - Kotlin
-- Rust
 - Haxe
 
 ## Links
 - [My Website](https://insberr.com)
 - [Discord Server](https://discord.gg/gRMbZyU)
-- [npm](https://www.npmjs.com/~insberr)
 
 ## Projects
 
 ### My current projects:
 - College
+- [Archea](https://github.com/insberr/archea)
 
 ### To work on later
 - [My Website](https://insberr.con) - Someday
