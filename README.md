@@ -1,6 +1,9 @@
-# Hi 👋, I'm Insberr
-I mainly work with Nodejs and web projects.  
-I'm a programmer, YouTuber, and gamer. I like programming, watching YouTube, or playing Minecraft.  
+# Hello, I'm Insberr
+I am a developer with experience in web, discord bots, game development, graphics, simulation, and more. 
+I also have a few other hobbies like YouTube and video creation, gaming, going on hikes, and touching grass.
+
+Check out my website! - https://insberr.com  
+[Join My Discord Server](https://discord.gg/gRMbZyU)
 
 ## Things
 ### I Know Well
@@ -9,11 +12,13 @@ I'm a programmer, YouTuber, and gamer. I like programming, watching YouTube, or 
   - vue2js (script import)
   - React & Preact
   - Parcel
+  - Vite
 - HTML & CSS (NOt evEn LanGuAges)
 - Python (It's been a long time)
 - C/C++
 
 ### Have a decent amount of experience with
+- Java
 - V Language
 - Rust
 - DirectX11
@@ -22,23 +27,21 @@ I'm a programmer, YouTuber, and gamer. I like programming, watching YouTube, or 
 ### Sort Of Know / Want To Learn
 - Zig
 - Go
-- Java
 - C#
 - Kotlin
 - Haxe
 
-## Links
-- [My Website](https://insberr.com)
-- [Discord Server](https://discord.gg/gRMbZyU)
-
 ## Projects
-
 ### My current projects:
 - College
 - [Archea](https://github.com/insberr/archea) 3D Falling Sand Simulation
+- [My Website](https://insberr.con)
 
 ### To work on later
-- [My Website](https://insberr.con) - Someday
+- Make an OS from scratch
+- Make a programming language
+- Browser
+- Video Upload/Stream Platform
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=insberr&count_private=true&show_icons=true&theme=dark" alt="Github Stats" />
