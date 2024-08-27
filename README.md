@@ -35,7 +35,7 @@ Check out my website! - https://insberr.com
 ### My current projects:
 - College
 - [Archea](https://github.com/insberr/archea) 3D Falling Sand Simulation
-- [My Website](https://insberr.con)
+- [My Website](https://insberr.com)
 
 ### To work on later
 - Make an OS from scratch
