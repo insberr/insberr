@@ -14,11 +14,11 @@ Check out my website! - https://insberr.com
   - Parcel
   - Vite
 - HTML & CSS (NOt evEn LanGuAges)
-- Python (It's been a long time)
+- Python
 - C/C++
+- Java
 
 ### Have a decent amount of experience with
-- Java
 - V Language
 - Rust
 - DirectX11
@@ -33,7 +33,7 @@ Check out my website! - https://insberr.com
 
 ## Projects
 ### My current projects:
-- College
+- Work
 - [Archea](https://github.com/insberr/archea) 3D Falling Sand Simulation
 - [My Website](https://insberr.com)
 
