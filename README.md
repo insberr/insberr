@@ -3,7 +3,7 @@ I am a developer with experience in web, discord bots, game development, graphic
 I also have a few other hobbies like YouTube and video creation, gaming, going on hikes, and touching grass.
 
 Check out my website! - https://insberr.com  
-[Join My Discord Server](https://discord.gg/gRMbZyU)
+[Join My Discord Server](https://discord.gg/PSNKV6EB9A)
 
 ## Things
 ### I Know Well
