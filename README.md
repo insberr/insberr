@@ -35,6 +35,6 @@ Check out my social media - https://chomps.you/@insberr
 - Haxe
 
 ## Projects
-- [Nord Studio](https://nordstud.io) A software studio that makes open alternative applications and services
+- [Lunar Studio](https://lunarstud.io) A software studio that makes open alternative applications and services
 - [My Website](https://insberr.com)
 - [Archea](https://git.insberr.com/insberr/archea) 3D Falling Sand Simulation
